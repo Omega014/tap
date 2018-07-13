@@ -3,4 +3,6 @@
     <string name="count_label">Count</string>
     <string name="reset_label">Reset</string>
     <string name="initial_text">0</string>
+
+    <string name="date">aaa</string>
 </resources>
